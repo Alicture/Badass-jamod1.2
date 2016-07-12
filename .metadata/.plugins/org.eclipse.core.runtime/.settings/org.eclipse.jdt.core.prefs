@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.core.classpathVariable.ServletApi=/usr/local/apache-tomcat-8.0.32/lib/servlet-api.jar
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.8
+org.eclipse.jdt.core.compiler.compliance=1.8
+org.eclipse.jdt.core.compiler.source=1.8
+org.eclipse.jdt.core.formatter.brace_position_for_annotation_type_declaration=next_line
+org.eclipse.jdt.core.formatter.brace_position_for_anonymous_type_declaration=next_line
+org.eclipse.jdt.core.formatter.brace_position_for_block=next_line
+org.eclipse.jdt.core.formatter.brace_position_for_block_in_case=next_line
+org.eclipse.jdt.core.formatter.brace_position_for_constructor_declaration=next_line
+org.eclipse.jdt.core.formatter.brace_position_for_enum_constant=next_line
+org.eclipse.jdt.core.formatter.brace_position_for_enum_declaration=next_line
+org.eclipse.jdt.core.formatter.brace_position_for_lambda_body=next_line
+org.eclipse.jdt.core.formatter.brace_position_for_method_declaration=next_line
+org.eclipse.jdt.core.formatter.brace_position_for_switch=next_line
+org.eclipse.jdt.core.formatter.brace_position_for_type_declaration=next_line
