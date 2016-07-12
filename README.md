@@ -1,6 +1,6 @@
-## This jamod1.2 was enhanced the capability to manipulate data under Modbus RTU over TCP/IP protocol.
+# This jamod1.2 was enhanced the capability to manipulate data under Modbus RTU over TCP/IP protocol.
 
-# What i have added to the original jamod1.2 source code.
+## What i have added to the original jamod1.2 source code.
 
 1. ModbusRTUTCPTransport 
 2. ModbusRTUTCPTransaction
