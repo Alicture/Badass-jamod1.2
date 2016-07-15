@@ -7,4 +7,4 @@
 3. RTUTCPMasterConnection
 4. ModbusRTUTCPMaster
 
-**I have write some test in mobusretutcp.tcptests,it'll show you how to use it.**
+**I have write some test in test.test,it'll show you how to use it.**
