@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package modbusretutcp;
+package test;
 
 import net.wimpi.modbus.io.ModbusRTUTCPTransport;
 
@@ -35,7 +35,7 @@ import net.wimpi.modbus.util.ModbusUtil;
  *
  * @author Administrator
  */
-public class tcptest {
+public class test {
 
 	// 1. Setup parameters
 	private static int requestNumber = 0;
@@ -55,7 +55,7 @@ public class tcptest {
 	ReadCoilsResponse RCres;
 	ReadCoilsRequest RCreq;
 
-	public tcptest() {
+	public test() {
 
 	}
 
@@ -232,7 +232,7 @@ public class tcptest {
 	public static void main(String[] args) {
 		// TODO code application logic here
 
-		tcptest Modbusretutcp = new tcptest();
+		test Modbusretutcp = new test();
 		Modbusretutcp.test();
 	}
 
