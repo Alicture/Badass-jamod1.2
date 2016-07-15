@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Modbus_tcp_ip</name>
+	<name>modbus_rtu_tcp</name>
 	<comment></comment>
 	<projects>
 	</projects>
