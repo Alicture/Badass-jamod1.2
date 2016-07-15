@@ -31,7 +31,7 @@ public class RTUTCPMasterConnection implements MasterConnection {
 			prepareTransport();
 			this.modbusRTUTCPTransport.setTimeOut(this.socketTimeout);
 			connected=true;
-			System.out.println("success");
+			
 		}
 	}
 
